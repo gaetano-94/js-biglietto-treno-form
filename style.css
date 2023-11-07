@@ -9,6 +9,13 @@ body {
   margin-top: 30px;
 }
 
+.gp-btn {
+  border-style: none;
+  background-color: #c5c5c5;
+  border: 1px solid #b91547;
+  color: #b91547;
+}
+
 h5 {
   color: #b91547;
 }
